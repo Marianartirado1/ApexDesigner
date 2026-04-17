@@ -46,7 +46,7 @@ Professor Chris Bladin from Victorian Stroke Telemedicine explains how technolog
  https://www.youtube.com/watch?v=nYlrUOSX0pw
 
 
-Tech/design issue (Mariana)
+Tech/design issue (Mariana) Easter week 
 --------------------------
 
 Human Factors Risk Management as a Way to Improve Medical Device Safety: A Case Study of the Therac 25 Radiation Therapy System
@@ -201,3 +201,23 @@ What Good Healthcare UX Looks Like
 Good healthcare UX design is not just about "convenient buttons" or a nice-looking screen — in medicine, it's a matter of trust, safety, and efficiency. Key principles include: user-centered design built around real workflows with early user involvement; clear navigation with minimal steps and quick access to critical information; effective data visualization that lets doctors assess patient condition in seconds; standardization and consistency across modules; accessibility for elders and people with disabilities; transparency through clear statuses, alerts, and error messages; and continuous improvement through regular feedback and real-world testing.
 
 https://vilmate.com/blog/ux-in-healthcare-the-hidden-risks-of-poor-design/
+
+Week 7
+
+Transfer miscommunication leads to the death of Jennifer Nibarger <https://www.youtube.com/watch?v=ssWSoN00yxI> 
+Brent Nibarger talks about a mistake in the paperwork in the hospital took aways his wife. He talks about how the tragic event happen and how when he was looking for answers of what went wrong, he discovers a list of wrong on the medical data storage, and how a system organize the information. How for each case can be a thousand pages of report and none of the medical workers saw it. How the lack of organization makes a gap of information between worker and pacient's case. 
+
+The secret to designing better medical devices | Carla Zampaglione | TEDxSwinburne University 
+<https://www.youtube.com/watch?v=pFOD8mej3ys> 
+"Picture a world where a simple design flaw in a medical device leads to tragedy. This talk explores the critical importance of usability in medical devices, emphasizing how empathy for healthcare professionals and patients can drastically improve safety and outcomes. Carla, a former mechanical engineer with international product development experience, founded Sento Solutions, a consultancy specializing in Usability Engineering (UE) and Human Factors (HF) for medical devices and digital healthcare products."
+
+ How We Can Improve the Healthcare UX | Dave Minifie | TEDxGatewayArchSalon <https://www.youtube.com/watch?v=2w4TBeNkbng> 
+"Dave brings a humorous approach to the question of how we can start fixing healthcare. At the most basic level it needs to be about User Experience. " 
+
+Using UI and UX design to fix healthcare 
+<https://www.youtube.com/watch?v=sHMNX-yp6K0> 
+"Poor software design is often to blame for doctors' burnout. But what does it look like for good software design to help doctors? I'm discussing how UI Design can help doctors and healthcare workers in this video." Based on this last video, it is necessary to think about how the UX design in medical field can not only affect patients. Lifestyle of medical workers is already stressful with long work shift, physical and mental exhausted and how making a user friendly design for a system that they use can simplify their life, optimize time, give a better diagnostic and treatment to patience’s and can improve their work lifestyle. 
+
+UX design in healthcare: Making a real difference in clinical workflows 
+<https://www.youtube.com/watch?v=BbyH9t8u7PE> 
+"Behind every clinical workflow there are people working under constant pressure. To meet their needs right from the start, it is essential to understand their daily routines. Timo Rohlig, UX designer at Siemens Healthiness, shares how these insights help him design user interfaces — and how thoughtful solutions can make hospital work easier and more focused on patients. "
